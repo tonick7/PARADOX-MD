@@ -8,19 +8,19 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/tonick7/PARADOX-MD/tree/main?tab=readme-ov-file"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a>
+<a href="https://github.com/tonick7/PARADOX-MD/tree/main?tab=readme-ov-file"><img title="Author" src="https://img.shields.io/badge/Anik-blue?style=for-the-badge&logo=Github"></a>
 <a href="https://www.youtube.com/@paradox_md884"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a>
 <a href="https://wa.me/+919475442764/?text=HYE_ANIK_🌚🔥💋"><img title="Contact Me" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 </p> 
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=OfficialKango&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Official paradox&color=blue" alt="Profile Views" />
 </p>
 
 
 <p align="center">
-<a href="https://github.com/OfficialKango/KANGO-XMD-LITE"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+<a href="https://github.com/tonick7/PARADOX-MD/tree/main?tab=readme-ov-file"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align='center'>
